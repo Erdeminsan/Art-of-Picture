@@ -15,3 +15,5 @@ When the user clicks on the gallery button, the user requests permission. If the
 After entering the information and the picture, the data is saved in the database by clicking the save button.
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/58186891/101177280-afd62100-3658-11eb-82f6-1dbd2be75dca.png)
+
+The saved table is shown like this
